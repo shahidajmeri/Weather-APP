@@ -1,5 +1,5 @@
 # Weather-APP
-A sleek and responsive weather app built with HTML, CSS, and JavaScript. 
+A sleek and responsive weather app built with HTML, CSS, and JavaScript. <br>
 🔍 Search weather by city or use your current location 
 🌡️ Toggle between Celsius and Fahrenheit 
 📍 Displays temperature, conditions, humidity, wind, visibility 

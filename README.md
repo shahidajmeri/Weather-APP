@@ -6,4 +6,6 @@ A sleek and responsive weather app built with HTML, CSS, and JavaScript. <br>
 ⚡ Powered by the OpenWeatherMap API.  <br>
 💡 Modern UI with glassmorphism and responsive design
 
+![Weather App Screenshot](/screenshot.png.png)
+
 
